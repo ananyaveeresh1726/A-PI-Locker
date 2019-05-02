@@ -1,0 +1,28 @@
+
+.editable:empty:after {
+    color: transparent;
+    content: 'abcde';
+}
+
+.editable {
+    float: left;
+}
+
+.editable:hover {
+    cursor: pointer;
+}
+
+.editable-icon {
+    float: left;
+    color: #ccc;
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+.editable-icon:hover {
+    color: #ccc;
+}
+
+.editable-input {
+
+}
